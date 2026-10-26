@@ -1,0 +1,5 @@
+index.db
+.current
+.last_refresh
+.env
+__pycache__/

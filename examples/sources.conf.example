@@ -1,0 +1,6 @@
+# Copy to ~/.config/live-help/sources.conf
+# <path> | <label> [| extensions]
+~/notes | notes
+~/docs/help-center | help-center | .md,.mdx
+# every git repo directly under ~/code:
+~/code/* | repos

@@ -1,0 +1,4 @@
+# Copy to ~/.config/live-help/synonyms.conf
+# term: extra search terms (also handles transcript mishearings)
+sso: keycloak, single sign
+k8s: kubernetes
